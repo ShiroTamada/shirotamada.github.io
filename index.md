@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # desk-companion.github.io
 # Desk Companion 🤖✨
 
